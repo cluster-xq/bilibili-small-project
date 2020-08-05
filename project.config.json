@@ -23,7 +23,8 @@
 			"outputPath": ""
 		},
 		"useCompilerModule": true,
-		"userConfirmedUseCompilerModuleSwitch": false
+		"userConfirmedUseCompilerModuleSwitch": false,
+		"nodeModules": true
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.12.0",
